@@ -3,7 +3,7 @@ header-footer:
   enabled: true
   header:
     - "<#FFFFFF>&m                                                </#FFFF00>"
-    - "&4&lPapeadaLand"
+    - "&4&lPapeadasSMP"
     - " &o&l&6%player%&7&l! "
     - ""
   footer:
